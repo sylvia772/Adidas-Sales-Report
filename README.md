@@ -33,4 +33,6 @@ This project provides a comprehensive sales analysis of Adidas products across v
 - `Adidas_Sales_data Python file`  
 - `Adidas_Sales_Insights_Summary.pdf` – PDF summary of the business report and recommendations.  
 - `README.md` – Project documentation.
+- `Adidas_Sales_data raw file`
+- `Adidas_Sales_data cleaned file`
 
